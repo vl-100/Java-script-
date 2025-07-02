@@ -1,4 +1,4 @@
-# Java-script-
+# Java named recognition 
 About name recognition 
 import java.util.*;
 
